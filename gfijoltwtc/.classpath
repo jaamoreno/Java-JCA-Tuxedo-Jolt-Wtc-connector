@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="C:/USB/EasyEclipse_REDSYS/workspace/gfijoltwtc/libs/com.oracle.tuxedo.adapter_1.1.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java WebSphere"/>
+	<classpathentry kind="lib" path="C:/USB/EasyEclipse_REDSYS/workspace/gfijoltwtc/libs/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/USB/EasyEclipse_REDSYS/workspace/gfijoltwtc/libs/javax.transaction_1.0.0.0_1-1.jar"/>
+	<classpathentry kind="lib" path="C:/USB/EasyEclipse_REDSYS/workspace/gfijoltwtc/libs/com.bea.core.jatmi_1.3.1.0.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
