@@ -1,0 +1,1 @@
+C:\"Program Files"\IBM\WebSphere\AppServer\bin\ejbdeploy.bat .\dist\lib\simpEjb_eclipse.jar . .\dist\lib\simpEjb.jar -cp ..\gfijoltwtc\dist\lib\gfijoltwtc.jar

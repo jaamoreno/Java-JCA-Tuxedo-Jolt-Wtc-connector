@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/ecutils.jar"/>
+	<classpathentry kind="lib" path="libs/lmproxy.jar"/>
+	<classpathentry kind="lib" path="libs/naming-common.jar"/>
+	<classpathentry kind="lib" path="libs/naming-factory.jar"/>
+	<classpathentry kind="lib" path="libs/naming-resources.jar"/>
+	<classpathentry kind="lib" path="libs/wsexception.jar"/>
+	<classpathentry kind="lib" path="libs/bootstrap.jar"/>
+	<classpathentry kind="lib" path="libs/ffdc.jar"/>
+	<classpathentry kind="lib" path="libs/ibmorb.jar"/>
+	<classpathentry kind="lib" path="libs/com.ibm.ws.webservices.thinclient_6.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/ws_runtime.jar"/>
+	<classpathentry kind="lib" path="C:/USB/EasyEclipse_REDSYS/workspace/simpEjb/dist/lib/simpEjb.jar"/>
+	<classpathentry kind="lib" path="C:/USB/EasyEclipse_REDSYS/workspace/gfijoltwtc/dist/lib/gfijoltwtc.jar"/>
+	<classpathentry kind="output" path="build"/>
+</classpath>
